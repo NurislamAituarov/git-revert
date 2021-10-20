@@ -1,1 +1,5 @@
-console.log(45);
+import user from "./modules/form";
+
+window.addEventListener("DOMContentLoaded", function () {
+  user();
+});

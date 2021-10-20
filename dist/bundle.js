@@ -1,1 +1,1 @@
-console.log(45);
+(()=>{"use strict";window.addEventListener("DOMContentLoaded",(function(){console.log("Hello my friend"),document.querySelector("header").textContent="Я изменился"}))})();
