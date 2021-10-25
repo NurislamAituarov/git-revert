@@ -1,3 +1,5 @@
-export default function user() {
-  document.querySelector("header").textContent = "новый коммит для реверта";
-}
+const user = () => {
+  console.log("Hello my friend");
+  document.querySelector("header").textContent = "Я изменился";
+};
+export default user;
