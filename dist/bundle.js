@@ -1,1 +1,1 @@
-(()=>{"use strict";window.addEventListener("DOMContentLoaded",(function(){document.querySelector("header").textContent="я изменился"}))})();
+(()=>{"use strict";window.addEventListener("DOMContentLoaded",(function(){document.querySelector("header").textContent="новый коммит для реверта"}))})();
